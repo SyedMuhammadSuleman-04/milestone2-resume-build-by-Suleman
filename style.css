@@ -1,0 +1,53 @@
+*{
+    position: relative;
+    text-align: center;
+}
+#resume-pi{
+    text-align: start;
+}
+
+#resume-e{
+    text-align: left;
+}
+
+.resume-input{
+color: rgb(21, 19, 73);
+background-color: rgb(46, 172, 246);
+width: 400px; height: 30px; border-radius: 4px ;
+text-decoration: none;
+text-align: start;
+}
+p{
+    color: rgb(95, 162, 251);
+    text-align: start;
+    margin-bottom: 2px;
+}
+#resume-field-sup{
+    position: relative; left: 520px;
+    border-width: 10px;
+    border-color: rgb(67, 43, 226);
+    border-radius: 8px;
+}
+fieldset{
+    width: 400px; text-align: center; border-color:rgb(67, 43, 226);
+    background-image: url(bg-pic.jpg);
+    
+}
+legend{
+    color: rgb(227, 9, 9);
+    font-weight: bold;
+    text-align: left;
+}
+button{
+    color:  rgb(201, 50, 8);
+    background-color: rgb(203, 9, 9);
+    margin-top: 12px;
+    height: 3px;
+}
+body{
+    background-color:rgb(4, 134, 194) ;
+}
+textarea{
+    background-color:rgb(46, 172, 246);border-radius: 4px;
+    
+}
